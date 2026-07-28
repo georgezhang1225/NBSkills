@@ -1,0 +1,16 @@
+{
+  "name": "api-doc-generator",
+  "source": "JackyST0/awesome-agent-skills",
+  "stars": 605,
+  "lastUpdated": "2026-07-28",
+  "category": "backend/api-design",
+  "compatibleTools": [
+    "Cursor",
+    "Claude Code",
+    "Copilot",
+    "Trae"
+  ],
+  "language": "en",
+  "qualityScore": "B",
+  "notes": "Agent skill: api-doc-generator"
+}

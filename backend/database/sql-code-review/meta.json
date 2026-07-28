@@ -1,0 +1,16 @@
+{
+  "name": "sql-code-review",
+  "source": "github/awesome-copilot",
+  "stars": 37109,
+  "lastUpdated": "2026-07-28",
+  "category": "backend/database",
+  "compatibleTools": [
+    "Cursor",
+    "Claude Code",
+    "Copilot",
+    "Trae"
+  ],
+  "language": "en",
+  "qualityScore": "A",
+  "notes": "name: sql-code-review"
+}

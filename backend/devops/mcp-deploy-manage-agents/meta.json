@@ -1,0 +1,16 @@
+{
+  "name": "mcp-deploy-manage-agents",
+  "source": "github/awesome-copilot",
+  "stars": 37109,
+  "lastUpdated": "2026-07-28",
+  "category": "backend/devops",
+  "compatibleTools": [
+    "Cursor",
+    "Claude Code",
+    "Copilot",
+    "Trae"
+  ],
+  "language": "en",
+  "qualityScore": "A",
+  "notes": "name: mcp-deploy-manage-agents"
+}

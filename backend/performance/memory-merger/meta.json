@@ -1,0 +1,16 @@
+{
+  "name": "memory-merger",
+  "source": "github/awesome-copilot",
+  "stars": 37109,
+  "lastUpdated": "2026-07-28",
+  "category": "backend/performance",
+  "compatibleTools": [
+    "Cursor",
+    "Claude Code",
+    "Copilot",
+    "Trae"
+  ],
+  "language": "en",
+  "qualityScore": "A",
+  "notes": "name: memory-merger"
+}

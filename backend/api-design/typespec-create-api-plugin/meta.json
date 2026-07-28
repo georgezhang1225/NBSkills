@@ -1,0 +1,16 @@
+{
+  "name": "typespec-create-api-plugin",
+  "source": "github/awesome-copilot",
+  "stars": 37109,
+  "lastUpdated": "2026-07-28",
+  "category": "backend/api-design",
+  "compatibleTools": [
+    "Cursor",
+    "Claude Code",
+    "Copilot",
+    "Trae"
+  ],
+  "language": "en",
+  "qualityScore": "A",
+  "notes": "name: typespec-create-api-plugin"
+}

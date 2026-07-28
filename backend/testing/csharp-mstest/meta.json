@@ -1,0 +1,16 @@
+{
+  "name": "csharp-mstest",
+  "source": "github/awesome-copilot",
+  "stars": 37109,
+  "lastUpdated": "2026-07-28",
+  "category": "backend/testing",
+  "compatibleTools": [
+    "Cursor",
+    "Claude Code",
+    "Copilot",
+    "Trae"
+  ],
+  "language": "en",
+  "qualityScore": "A",
+  "notes": "name: csharp-mstest"
+}
